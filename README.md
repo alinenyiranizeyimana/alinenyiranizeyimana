@@ -1,4 +1,6 @@
-## Hi there 👋
+## Aline
+
+## How to reach me: aline.nyiranizeyimana@aims.ac.rw
 
 <!--
 **alinenyiranizeyimana/alinenyiranizeyimana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
