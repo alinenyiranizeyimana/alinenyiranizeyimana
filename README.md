@@ -1,7 +1,6 @@
 ## Aline am currently an AIMS Student pursuing Math Epi
 
-## How to reach me: aline.nyiranizeyimana@aims.ac.rw
-                    +250782955310
+## How to reach me: aline.nyiranizeyimana@aims.ac.rw/ +250782955310
 
 
 <!--
