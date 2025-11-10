@@ -23,7 +23,7 @@
     <span style="display: block; font-size: 14px;">Instagram</span>
   </a>
   
-  <a href="mailto:your.email@example.com" target="_blank" style="text-align: center; text-decoration: none; color: #D14836; font-weight: bold;">
+  <a href="mailto:aline.nyiranizeyimana@aims.ac.rw" target="_blank" style="text-align: center; text-decoration: none; color: #D14836; font-weight: bold;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="50" height="50"/>
     <span style="display: block; font-size: 14px;">Email</span>
   </a>
