@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=alinenyiranizeyimana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+## Contact Me
 <p align="center" style="display: flex; justify-content: center; gap: 30px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/nyiranizeyimana-aline-b148b0296/" target="_blank" style="text-align: center; text-decoration: none; color: #0A66C2; font-weight: bold;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50"/>
